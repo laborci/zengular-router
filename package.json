@@ -1,0 +1,43 @@
+{
+  "_args": [
+    [
+      "zengular-router@1.1.5",
+      "/Users/elvis/Work/htdocs/gamer365"
+    ]
+  ],
+  "_from": "zengular-router@1.1.5",
+  "_id": "zengular-router@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-BlP20NM5C3xHuOsDvXm+asI1lSp3SHe+84ycTCKEYmQtbdOVALA0Ts82qq/JOg2N5J5rSAYGzoGtW33iQ57LvA==",
+  "_location": "/zengular-router",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "zengular-router@1.1.5",
+    "name": "zengular-router",
+    "escapedName": "zengular-router",
+    "rawSpec": "1.1.5",
+    "saveSpec": null,
+    "fetchSpec": "1.1.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zengular-router/-/zengular-router-1.1.5.tgz",
+  "_shasum": "a44394c677504f08976a261f80e3fec357eed7a0",
+  "_spec": "1.1.5",
+  "_where": "/Users/elvis/Work/htdocs/gamer365",
+  "author": {
+    "name": "Gergely Laborci"
+  },
+  "deprecated": false,
+  "description": "Zengular router",
+  "license": "ISC",
+  "main": "src/router.js",
+  "name": "zengular-router",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.5"
+}
